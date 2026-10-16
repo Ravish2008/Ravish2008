@@ -16,8 +16,6 @@
 
 <img align="right" width="300" alt="GIF" src="https://raw.githubusercontent.com/Ravish2008/Ravish2008/refs/heads/main/assets/giphy.gif" />
 
- <img align="right" width="300"  alt="GIF" src="https://github.com/msk4862/msk4862/blob/master/assets/giphy.gif" />
-
 
 <br/>
 
